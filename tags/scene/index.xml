@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Shubham Sharma</title>
+    <link>http://shubham1166.github.io/shubham_webpage/tags/scene/</link>
+    <description>Recent content in scene on Shubham Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://shubham1166.github.io/shubham_webpage/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1: TCS Innovation Lab(5 Weeks)</title>
+      <link>http://shubham1166.github.io/shubham_webpage/internships/internship-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubham1166.github.io/shubham_webpage/internships/internship-1/</guid>
+      <description> Read different research papers for Session Based Recommendation Systems of TCS research including STAN, NISER and other attention networks like HAN. The goal of my work was to come up with high-fidelity simulations of user behavior to enable better evaluation of Deep RL based Recommender Systems.  </description>
+    </item>
+    
+  </channel>
+</rss>

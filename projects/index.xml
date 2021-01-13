@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shubham Sharma</title>
+    <link>http://shubham1166.github.io/shubham_webpage/projects/</link>
+    <description>Recent content in Projects on Shubham Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://shubham1166.github.io/shubham_webpage/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NR1: Embedding design during information cascade</title>
+      <link>http://shubham1166.github.io/shubham_webpage/projects/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubham1166.github.io/shubham_webpage/projects/project-3/</guid>
+      <description> The idea is to design node embedding that not only characterize the structure of the network but also the information flow in the network. Implemented the Elsevier 2020 paper “Deep collaborative embedding for information cascade prediction” github link  </description>
+    </item>
+    
+    <item>
+      <title>NR2: Recurrent Models for Situation Recognition</title>
+      <link>http://shubham1166.github.io/shubham_webpage/projects/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubham1166.github.io/shubham_webpage/projects/project-5/</guid>
+      <description> Recognition of actions and human-object interactions in still images using LSTM and CNNs. Used a specialized action prediction network followed by an RNN for noun prediction. Showed that specialized features learned from situation prediction can be transferred to the task of image captioning to more accurately describe human-object interactions. github link   </description>
+    </item>
+    
+    <item>
+      <title>NR3: Weakly Supervised Region Proposal Network and Object Detection</title>
+      <link>http://shubham1166.github.io/shubham_webpage/projects/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubham1166.github.io/shubham_webpage/projects/project-6/</guid>
+      <description> A Region Proposal Network was made for WSOD(Weakly Supervised Object Detection). The first stage evaluates the objectness scores of sliding window boxes by exploiting low-level information. The second stage refines the proposals from the first stage using a region-based CNN classifier. github link   </description>
+    </item>
+    
+    <item>
+      <title>R1: Beam Alignment and Beam Tracking in mmWave 5G communications</title>
+      <link>http://shubham1166.github.io/shubham_webpage/projects/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubham1166.github.io/shubham_webpage/projects/project-1/</guid>
+      <description> Analysis of different Bean Alignment and Beam Tracking algorithms using Multi Arm Bandits. Review of four highly cited papers(Unimodal bandits, Fast mmwave Beam Alignment via Correlated Bandit Learning, Efficient Beam Alignment in Millimeter Wave Systems Using Contextual Bandits, Adversarial Multi-armed Bandit for mmWave Beam Alignment with One-Bit Feedback). Devised a new algorithm(Updated HBA) giving better results than any other work till date.  </description>
+    </item>
+    
+    <item>
+      <title>R2: Hierarchical Image Classification</title>
+      <link>http://shubham1166.github.io/shubham_webpage/projects/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubham1166.github.io/shubham_webpage/projects/project-2/</guid>
+      <description> Aim of the project was to see how hierarchical classification behaves with the labels in hyperbolic space. Classification was done with the help of label embeddings in poincare space and neural networks in hyperbolic space. A hybrid type network was also developed with fully connected layers in hyperbolic space and convolutional layers in euclidean space.  </description>
+    </item>
+    
+    <item>
+      <title>R3: Hyperbolic Graph Embeddings</title>
+      <link>http://shubham1166.github.io/shubham_webpage/projects/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubham1166.github.io/shubham_webpage/projects/project-4/</guid>
+      <description> Analysis of different hyperbolic geometries and their different applications in graph embeddings. Reproduces the results from two highly cited papers based on Poincare embeddings and Lorrentz embeddings. It was shows theoretically and practically the importance of hyperbolic space to capture the hierarchy in data.  </description>
+    </item>
+    
+    <item>
+      <title>R4: Volumetric Segmentation of 3D images</title>
+      <link>http://shubham1166.github.io/shubham_webpage/projects/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shubham1166.github.io/shubham_webpage/projects/project-7/</guid>
+      <description> • Comparison of different representation of 3D images(RGB-D images, Volumetric images, Point Clouds). Segmentation of 3D images using a network similar to 3D-UNet(dataset from medical decathlon). Classification on 3D MNIST dataset using 3D network similar to ResNet and VGGNet architectures. github link   </description>
+    </item>
+    
+  </channel>
+</rss>
